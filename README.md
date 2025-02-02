@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# random-message
-=======
 # Random Message Generator
 
 ## Description
